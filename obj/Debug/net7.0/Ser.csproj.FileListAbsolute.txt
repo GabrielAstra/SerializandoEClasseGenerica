@@ -1,0 +1,17 @@
+/home/gabriel/Desktop/VSProjects/Ser/bin/Debug/net7.0/Ser
+/home/gabriel/Desktop/VSProjects/Ser/bin/Debug/net7.0/Ser.deps.json
+/home/gabriel/Desktop/VSProjects/Ser/bin/Debug/net7.0/Ser.runtimeconfig.json
+/home/gabriel/Desktop/VSProjects/Ser/bin/Debug/net7.0/Ser.dll
+/home/gabriel/Desktop/VSProjects/Ser/bin/Debug/net7.0/Ser.pdb
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/Ser.csproj.AssemblyReference.cache
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/Ser.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/Ser.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/Ser.AssemblyInfo.cs
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/Ser.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/Ser.dll
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/refint/Ser.dll
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/Ser.pdb
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/Ser.genruntimeconfig.cache
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/ref/Ser.dll
+/home/gabriel/Desktop/VSProjects/Ser/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/gabriel/Desktop/VSProjects/Ser/obj/Debug/net7.0/Ser.csproj.CopyComplete

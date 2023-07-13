@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFoWOJxQlJv0nbc0g2jv0LHtE4D+4mWvYQZiDl4yApFMx90SU8oR1Po57xdI2LJgtgmuXOGhtOlwuczrZ7tGtA==",
+  "success": true,
+  "projectFilePath": "/home/gabriel/Desktop/VSProjects/Ser/Ser.csproj",
+  "expectedPackageFiles": [
+    "/home/gabriel/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
